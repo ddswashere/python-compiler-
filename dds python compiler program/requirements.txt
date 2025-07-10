@@ -1,0 +1,10 @@
+# Python Compiler GUI Application Requirements
+# All dependencies are part of Python standard library
+# No external packages required
+
+# Built-in modules used:
+# - tkinter (GUI framework)
+# - py_compile (Python compilation)
+# - pathlib (Path operations)
+# - threading (Background processing)
+# - os, sys, traceback (System operations) 
